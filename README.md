@@ -1,4 +1,4 @@
-- 👋 Hi, this is the @EHRI-NCS Workshop Github site
+- 👋 Hi, this is the @EHRI-NCS Workshop GitHub site
 - 👀 Here, we look at continuous sensor analysis and exposure mixture pathway analysis
 - 🌱 Workshop participants will find a copy of the lab manual here
 - 💞️ This site will stay up after the workshop for participant reference and post-workshop practice
